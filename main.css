@@ -1,9 +1,9 @@
 @font-face {
-	font-family: 'Among Us Regular';
+	font-family: 'amogus';
 	src: url('https://justincweiler.github.io/amogus-font/fonts/amogus.ttf');
 }
 
 * {
 	text-transform: uppercase;
-	font-family: 'Among Us Regular' !important;
+	font-family: 'amogus' !important;
 }
