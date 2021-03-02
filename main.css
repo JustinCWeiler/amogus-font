@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'amogus';
+	src: url('');
+}
+
+* {
+	text-transform: uppercase;
+	font-family: 'amogus' !important;
+}
+
+/*
+::-webkit-input-placeholder,body,button,input,select,textarea {
+	font-family: 'Comic Sans MS', Whitney, sans-serif
+}
+
+.about, code, [class*="codeLine"], [class*="inlineCode"] {
+	font-family: 'Comic Mono', mono !important
+}
+*/
