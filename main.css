@@ -1,19 +1,9 @@
 @font-face {
-	font-family: 'amogus';
-	src: url('https://github.com/JustinCWeiler/amogus-font/blob/master/fonts/amogus.ttf');
+	font-family: 'Among Us Regular';
+	src: url('https://justincweiler.github.io/amogus-font/fonts/amogus.ttf');
 }
 
 * {
 	text-transform: uppercase;
-	font-family: 'amogus' !important;
+	font-family: 'Among Us Regular' !important;
 }
-
-/*
-::-webkit-input-placeholder,body,button,input,select,textarea {
-	font-family: 'Comic Sans MS', Whitney, sans-serif
-}
-
-.about, code, [class*="codeLine"], [class*="inlineCode"] {
-	font-family: 'Comic Mono', mono !important
-}
-*/
